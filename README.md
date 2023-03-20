@@ -10,4 +10,4 @@
 
 ## References
 - [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), Y. Ren, *et al*.
-- [FastSpeech 2 - PyTorch Implementation](https://github.com/ming024/FastSpeech2) 
+- [FastSpeech 2 - PyTorch Implementation](https://github.com/ming024/FastSpeech2), Chien Chung-Ming, *et al*.
